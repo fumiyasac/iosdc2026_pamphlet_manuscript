@@ -7,4 +7,4 @@
 ### その他
 
 - [プロポーザル](https://fortee.jp/iosdc-japan-2026/proposal/56d6ccac-ff8b-4848-8a6c-280fdef023fe)
-- [掲載原稿PDF版(Dropbox)](https://www.dropbox.com/scl/fi/z4r4uaujmazu234vi936y/iOSDC2026-4-_StickyHeader-Carousel-UI-SwiftUI-_.pdf?rlkey=metx28oyyrcjbozgs7gn9wccq&st=7r87bzsf&dl=0)
+- [掲載原稿PDF版(Dropbox)](https://www.dropbox.com/scl/fi/db4lqba1lks4o9ys3wfhh/iOSDC2026-4-_StickyHeader-Carousel-UI-SwiftUI-_.pdf?rlkey=kuq1hhokbj4tlxefogaeouh7m&st=xg245z61&dl=0)
